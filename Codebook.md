@@ -1,7 +1,4 @@
----
-title: "Cookbook"
-output: html_document
----
+
 #Introduction
 The script run_analysis.Rperforms the 5 steps described in the course project's definition.
 
